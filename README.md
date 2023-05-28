@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página de um quizz no estilo do site Buzzfeed
 
-
+[Link do projeto online](https://angular-quizz-buzzfeed-rho.vercel.app/)
 
 ## :memo: Licença
 
