@@ -1,5 +1,5 @@
 {
-  "title": "Você seria um heroi ou vilão ?",
+  "title": "Você seria um herói ou vilão ?",
   "questions":[
     {
       "id":1,
@@ -49,7 +49,7 @@
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um vilão!",
-    "B": "Você muito provavelmente seria um Herói!"
+    "A": "Você provavelmente seria um Vilão!😈",
+    "B": "Você provavelmente seria um Herói!🦸‍♂️🦸‍♀️"
   }
 }
